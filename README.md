@@ -5,6 +5,7 @@ A simple hospital management system written in C++ to manage patients in differe
 ## Table of Contents
 
 - [Features](#features)
+- [Demo](#Demo)
 - [Prerequisites](#prerequisites)
 - [Documentation](#documentation)
 - [Contributing](#contributing)
@@ -18,6 +19,12 @@ A simple hospital management system written in C++ to manage patients in differe
 - **Input Validation**: Includes basic input validation to handle invalid user inputs.
 - **STL Usage**: Utilizes the Standard Template Library (STL) for data structures like `deque` and `vector`, enhancing code efficiency.
 - **Enums**: Uses enums for gender and urgency levels to enhance code readability.
+
+## Demo
+
+![1](https://github.com/khaledGadelhaQ/Hospital-Management-System-Project/assets/120754711/7ffcf65f-c827-4053-9027-3fc6cc9dfd1f) ![2](https://github.com/khaledGadelhaQ/Hospital-Management-System-Project/assets/120754711/af63d027-c671-4fed-b949-10ff58b3489b) ![3](https://github.com/khaledGadelhaQ/Hospital-Management-System-Project/assets/120754711/6c2c6edc-0ab8-4471-9e18-c9ae5acab8ca)
+![4](https://github.com/khaledGadelhaQ/Hospital-Management-System-Project/assets/120754711/395b6540-db4b-4ab9-b308-5f1fa236e559) ![5](https://github.com/khaledGadelhaQ/Hospital-Management-System-Project/assets/120754711/4006f22b-70fc-4ee7-8563-98c583ecc29e)
+
 
 ## Prerequisites
 
